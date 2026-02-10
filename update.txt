@@ -1,1 +1,14 @@
+{"version_code":381607125,"content":"
+<p>༺☆༻ UPDATE | InstaFlow V24 ༺☆༻</p>
 
+
+<li>New updated base - 410.1.0.63.71</li>
+<li>[Improved] ad-blocking option (100% ads removed)</li>
+<li>[Temporarily removed] "Following you" indicator option</li>
+<li>[Added] - Ability to save view-once images</li>
+
+
+
+
+","url":"https://youtu.be/Eyjph-bsTrc"
+}
